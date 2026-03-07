@@ -114,13 +114,13 @@ export default function HomePage() {
           products={[
             {
               id: "1",              brand: "Design & Illustration",              name: "Interactive Brand Identity System",              price: "Award Winner",              rating: 5,
-              reviewCount: "240",              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg",              imageAlt: "Graphic design portfolio project"},
+              reviewCount: "240",              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg?_wi=1",              imageAlt: "Graphic design portfolio project"},
             {
               id: "2",              brand: "Web Development",              name: "Full-Stack E-Commerce Platform",              price: "Featured Project",              rating: 5,
-              reviewCount: "189",              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg",              imageAlt: "Web development portfolio project"},
+              reviewCount: "189",              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg?_wi=1",              imageAlt: "Web development portfolio project"},
             {
               id: "3",              brand: "Architecture & Design",              name: "Sustainable Urban Housing Initiative",              price: "Best Concept",              rating: 5,
-              reviewCount: "156",              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg",              imageAlt: "Architecture design project"},
+              reviewCount: "156",              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg?_wi=1",              imageAlt: "Architecture design project"},
           ]}
           gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
@@ -138,11 +138,11 @@ export default function HomePage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              title: "Landing My Dream Internship",              quote: "ExhibitHub gave me the visibility I needed. An employer discovered my portfolio and reached out directly - it completely changed my career trajectory.",              name: "Alex Chen",              role: "Marketing & Design Student",              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg",              imageAlt: "Alex Chen"},
+              id: "1",              title: "Landing My Dream Internship",              quote: "ExhibitHub gave me the visibility I needed. An employer discovered my portfolio and reached out directly - it completely changed my career trajectory.",              name: "Alex Chen",              role: "Marketing & Design Student",              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg?_wi=1",              imageAlt: "Alex Chen"},
             {
-              id: "2",              title: "Assessing Student Growth",              quote: "As an educator, I love how ExhibitHub lets me track student progress over time and see their evolving work. It's invaluable for evaluation and mentorship.",              name: "Dr. Sarah Mitchell",              role: "Professor of Design",              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",              imageAlt: "Dr. Sarah Mitchell"},
+              id: "2",              title: "Assessing Student Growth",              quote: "As an educator, I love how ExhibitHub lets me track student progress over time and see their evolving work. It's invaluable for evaluation and mentorship.",              name: "Dr. Sarah Mitchell",              role: "Professor of Design",              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=1",              imageAlt: "Dr. Sarah Mitchell"},
             {
-              id: "3",              title: "Finding Top Talent Early",              quote: "We've hired three outstanding graduates through ExhibitHub. It's the best way to discover emerging talent and see their actual capabilities in action.",              name: "James Rodriguez",              role: "Recruitment Manager, Tech Corp",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",              imageAlt: "James Rodriguez"},
+              id: "3",              title: "Finding Top Talent Early",              quote: "We've hired three outstanding graduates through ExhibitHub. It's the best way to discover emerging talent and see their actual capabilities in action.",              name: "James Rodriguez",              role: "Recruitment Manager, Tech Corp",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=1",              imageAlt: "James Rodriguez"},
             {
               id: "4",              title: "Building Confidence Through Community",              quote: "Getting feedback from peers and professionals on ExhibitHub really boosted my confidence as an artist. I felt supported and inspired to keep improving.",              name: "Maya Patel",              role: "Fine Arts Student",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-senior-woman-professional-blazer-outdoors_23-2150296635.jpg",              imageAlt: "Maya Patel"},
             {
