@@ -46,7 +46,7 @@ export default function AboutPage() {
           tag="About Our Platform"
           tagIcon={Award}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-planning-trip_23-2148925847.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-planning-trip_23-2148925847.jpg?_wi=2"
           imageAlt="Students collaborating showcase"
           buttons={[
             {
@@ -66,28 +66,28 @@ export default function AboutPage() {
               id: 1,
               title: "Create Your Portfolio",
               description: "Upload your best academic projects, design work, research, and creative endeavors in an organized, professional format",
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-hand-holding-paper-piece_23-2149930956.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/side-view-hand-holding-paper-piece_23-2149930956.jpg?_wi=2",
               imageAlt: "Student creating portfolio",
             },
             {
               id: 2,
               title: "Get Discovered",
               description: "Share your work with peers, faculty, employers, and collaborators. Build visibility in your academic community and beyond",
-              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-smiley-womens-home_23-2148451583.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-smiley-womens-home_23-2148451583.jpg?_wi=2",
               imageAlt: "Portfolio visibility and reach",
             },
             {
               id: 3,
               title: "Receive Feedback",
               description: "Engage with the community through comments, ratings, and constructive critiques from peers and professionals",
-              imageSrc: "http://img.b2bpic.net/free-vector/reviews-concept-landing-page_52683-12806.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/reviews-concept-landing-page_52683-12806.jpg?_wi=2",
               imageAlt: "Receiving feedback from community",
             },
             {
               id: 4,
               title: "Open Opportunities",
               description: "Connect with employers, graduate programs, and collaborators seeking talented emerging professionals",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-woman-sitting-cafe-studying_273609-13270.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-woman-sitting-cafe-studying_273609-13270.jpg?_wi=2",
               imageAlt: "Career opportunities and connections",
             },
           ]}
