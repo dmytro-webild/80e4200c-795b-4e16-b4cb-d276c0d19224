@@ -49,13 +49,13 @@ export default function ExplorePage() {
           products={[
             {
               id: "1",              brand: "Design & Illustration",              name: "Interactive Brand Identity System",              price: "Award Winner",              rating: 5,
-              reviewCount: "240",              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg",              imageAlt: "Graphic design portfolio project"},
+              reviewCount: "240",              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg?_wi=2",              imageAlt: "Graphic design portfolio project"},
             {
               id: "2",              brand: "Web Development",              name: "Full-Stack E-Commerce Platform",              price: "Featured Project",              rating: 5,
-              reviewCount: "189",              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg",              imageAlt: "Web development portfolio project"},
+              reviewCount: "189",              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg?_wi=2",              imageAlt: "Web development portfolio project"},
             {
               id: "3",              brand: "Architecture & Design",              name: "Sustainable Urban Housing Initiative",              price: "Best Concept",              rating: 5,
-              reviewCount: "156",              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg",              imageAlt: "Architecture design project"},
+              reviewCount: "156",              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg?_wi=2",              imageAlt: "Architecture design project"},
           ]}
           gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
@@ -73,11 +73,11 @@ export default function ExplorePage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              title: "Discovering New Talent",              quote: "Browsing student exhibitions on ExhibitHub is how we source our entry-level hires. The quality and diversity of work here is impressive.",              name: "Patricia Johnson",              role: "HR Director, Design Studio",              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",              imageAlt: "Patricia Johnson"},
+              id: "1",              title: "Discovering New Talent",              quote: "Browsing student exhibitions on ExhibitHub is how we source our entry-level hires. The quality and diversity of work here is impressive.",              name: "Patricia Johnson",              role: "HR Director, Design Studio",              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=2",              imageAlt: "Patricia Johnson"},
             {
-              id: "2",              title: "Inspiring Next Generation",              quote: "My students explore each other's work on ExhibitHub and it creates friendly competition that pushes them to improve. The platform fosters growth.",              name: "Prof. Michael Zhang",              role: "University Design Professor",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",              imageAlt: "Prof. Michael Zhang"},
+              id: "2",              title: "Inspiring Next Generation",              quote: "My students explore each other's work on ExhibitHub and it creates friendly competition that pushes them to improve. The platform fosters growth.",              name: "Prof. Michael Zhang",              role: "University Design Professor",              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=2",              imageAlt: "Prof. Michael Zhang"},
             {
-              id: "3",              title: "Growing as a Creator",              quote: "Seeing what other students are creating motivated me to level up my own work. The community here is supportive and inspiring every day.",              name: "Lisa Wang",              role: "Product Design Student",              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg",              imageAlt: "Lisa Wang"},
+              id: "3",              title: "Growing as a Creator",              quote: "Seeing what other students are creating motivated me to level up my own work. The community here is supportive and inspiring every day.",              name: "Lisa Wang",              role: "Product Design Student",              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg?_wi=2",              imageAlt: "Lisa Wang"},
           ]}
           textboxLayout="default"
           useInvertedBackground={false}
