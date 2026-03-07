@@ -47,7 +47,7 @@ export default function ContactPage() {
               quote: "ExhibitHub gave me the visibility I needed. An employer discovered my portfolio and reached out directly - it completely changed my career trajectory.",
               name: "Alex Chen",
               role: "Marketing & Design Student",
-              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg?_wi=3",
               imageAlt: "Alex Chen",
             },
             {
@@ -56,7 +56,7 @@ export default function ContactPage() {
               quote: "As an educator, I love how ExhibitHub lets me track student progress over time and see their evolving work. It's invaluable for evaluation and mentorship.",
               name: "Dr. Sarah Mitchell",
               role: "Professor of Design",
-              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=3",
               imageAlt: "Dr. Sarah Mitchell",
             },
             {
@@ -65,7 +65,7 @@ export default function ContactPage() {
               quote: "We've hired three outstanding graduates through ExhibitHub. It's the best way to discover emerging talent and see their actual capabilities in action.",
               name: "James Rodriguez",
               role: "Recruitment Manager, Tech Corp",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=3",
               imageAlt: "James Rodriguez",
             },
           ]}
