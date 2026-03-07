@@ -70,7 +70,7 @@ export default function HomePage() {
           tag="About Our Platform"
           tagIcon={Award}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-planning-trip_23-2148925847.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/medium-shot-people-planning-trip_23-2148925847.jpg?_wi=1"
           imageAlt="Students collaborating and showcasing work"
           buttons={[{ text: "Join the Community", href: "/explore" }]}
           useInvertedBackground={false}
@@ -89,28 +89,28 @@ export default function HomePage() {
               id: 1,
               title: "Create Your Portfolio",
               description: "Upload your best academic projects, design work, research, and creative endeavors in an organized, professional format",
-              imageSrc: "http://img.b2bpic.net/free-photo/side-view-hand-holding-paper-piece_23-2149930956.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/side-view-hand-holding-paper-piece_23-2149930956.jpg?_wi=1",
               imageAlt: "Student creating portfolio",
             },
             {
               id: 2,
               title: "Get Discovered",
               description: "Share your work with peers, faculty, employers, and collaborators. Build visibility in your academic community and beyond",
-              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-smiley-womens-home_23-2148451583.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/low-angle-smiley-womens-home_23-2148451583.jpg?_wi=1",
               imageAlt: "Portfolio visibility and reach",
             },
             {
               id: 3,
               title: "Receive Feedback",
               description: "Engage with the community through comments, ratings, and constructive critiques from peers and professionals",
-              imageSrc: "http://img.b2bpic.net/free-vector/reviews-concept-landing-page_52683-12806.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/reviews-concept-landing-page_52683-12806.jpg?_wi=1",
               imageAlt: "Receiving feedback from community",
             },
             {
               id: 4,
               title: "Open Opportunities",
               description: "Connect with employers, graduate programs, and collaborators seeking talented emerging professionals",
-              imageSrc: "http://img.b2bpic.net/free-photo/man-woman-sitting-cafe-studying_273609-13270.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/man-woman-sitting-cafe-studying_273609-13270.jpg?_wi=1",
               imageAlt: "Career opportunities and connections",
             },
           ]}
@@ -135,7 +135,7 @@ export default function HomePage() {
               price: "Award Winner",
               rating: 5,
               reviewCount: "240",
-              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg?_wi=1",
               imageAlt: "Graphic design portfolio project",
             },
             {
@@ -145,7 +145,7 @@ export default function HomePage() {
               price: "Featured Project",
               rating: 5,
               reviewCount: "189",
-              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg?_wi=1",
               imageAlt: "Web development portfolio project",
             },
             {
@@ -155,7 +155,7 @@ export default function HomePage() {
               price: "Best Concept",
               rating: 5,
               reviewCount: "156",
-              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg",
+              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg?_wi=1",
               imageAlt: "Architecture design project",
             },
           ]}
@@ -180,7 +180,7 @@ export default function HomePage() {
               quote: "ExhibitHub gave me the visibility I needed. An employer discovered my portfolio and reached out directly - it completely changed my career trajectory.",
               name: "Alex Chen",
               role: "Marketing & Design Student",
-              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg?_wi=1",
               imageAlt: "Alex Chen",
             },
             {
@@ -189,7 +189,7 @@ export default function HomePage() {
               quote: "As an educator, I love how ExhibitHub lets me track student progress over time and see their evolving work. It's invaluable for evaluation and mentorship.",
               name: "Dr. Sarah Mitchell",
               role: "Professor of Design",
-              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=1",
               imageAlt: "Dr. Sarah Mitchell",
             },
             {
@@ -198,7 +198,7 @@ export default function HomePage() {
               quote: "We've hired three outstanding graduates through ExhibitHub. It's the best way to discover emerging talent and see their actual capabilities in action.",
               name: "James Rodriguez",
               role: "Recruitment Manager, Tech Corp",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=1",
               imageAlt: "James Rodriguez",
             },
             {
