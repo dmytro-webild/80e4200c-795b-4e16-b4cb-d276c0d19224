@@ -54,7 +54,7 @@ export default function ExplorePage() {
               price: "Award Winner",
               rating: 5,
               reviewCount: "240",
-              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/lovely-art-composition-with-happy-female-model_23-2147868344.jpg?_wi=2",
               imageAlt: "Graphic design portfolio project",
             },
             {
@@ -64,7 +64,7 @@ export default function ExplorePage() {
               price: "Featured Project",
               rating: 5,
               reviewCount: "189",
-              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/server-room-employees-reviewing-documentation-clipboard-close-up_482257-123357.jpg?_wi=2",
               imageAlt: "Web development portfolio project",
             },
             {
@@ -74,7 +74,7 @@ export default function ExplorePage() {
               price: "Best Concept",
               rating: 5,
               reviewCount: "156",
-              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg",
+              imageSrc: "http://img.b2bpic.net/free-psd/flat-design-business-strategy-landing-page_23-2150699886.jpg?_wi=2",
               imageAlt: "Architecture design project",
             },
           ]}
@@ -99,7 +99,7 @@ export default function ExplorePage() {
               quote: "Browsing student exhibitions on ExhibitHub is how we source our entry-level hires. The quality and diversity of work here is impressive.",
               name: "Patricia Johnson",
               role: "HR Director, Design Studio",
-              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=2",
               imageAlt: "Patricia Johnson",
             },
             {
@@ -108,7 +108,7 @@ export default function ExplorePage() {
               quote: "My students explore each other's work on ExhibitHub and it creates friendly competition that pushes them to improve. The platform fosters growth.",
               name: "Prof. Michael Zhang",
               role: "University Design Professor",
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=2",
               imageAlt: "Prof. Michael Zhang",
             },
             {
@@ -117,7 +117,7 @@ export default function ExplorePage() {
               quote: "Seeing what other students are creating motivated me to level up my own work. The community here is supportive and inspiring every day.",
               name: "Lisa Wang",
               role: "Product Design Student",
-              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg",
+              imageSrc: "http://img.b2bpic.net/free-vector/professional-join-team-linkedin-profile-picture_742173-11941.jpg?_wi=2",
               imageAlt: "Lisa Wang",
             },
           ]}
