@@ -8,6 +8,14 @@ import FooterLogoReveal from "@/components/sections/footer/FooterLogoReveal";
 import { Sparkles, Users } from "lucide-react";
 
 export default function ContactPage() {
+  const navItems = [
+    { name: "Home", id: "/" },
+    { name: "Explore", id: "/explore" },
+    { name: "About", id: "/about" },
+    { name: "Community", id: "community" },
+    { name: "Contact", id: "/contact" },
+  ];
+
   return (
     <ThemeProvider
       defaultButtonVariant="directional-hover"
@@ -24,13 +32,7 @@ export default function ContactPage() {
       {/* Navbar */}
       <div id="nav" data-section="nav">
         <NavbarStyleFullscreen
-          navItems={[
-            { name: "Home", id: "home" },
-            { name: "Explore", id: "explore" },
-            { name: "About", id: "about" },
-            { name: "Community", id: "community" },
-            { name: "Contact", id: "contact" },
-          ]}
+          navItems={navItems}
           brandName="ExhibitHub"
           bottomLeftText="Student-Powered Showcase"
           bottomRightText="hello@exhibithub.edu"
@@ -70,7 +72,7 @@ export default function ContactPage() {
             {
               text: "Create Free Account",              href: "/explore"},
             {
-              text: "Browse Gallery",              href: "explore"},
+              text: "Browse Gallery",              href: "/explore"},
           ]}
           buttonAnimation="slide-up"
           background={{
