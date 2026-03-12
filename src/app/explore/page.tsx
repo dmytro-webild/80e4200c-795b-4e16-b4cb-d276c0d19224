@@ -12,9 +12,9 @@ export default function ExplorePage() {
   const navItems = [
     { name: "Home", id: "/" },
     { name: "Explore", id: "/explore" },
-    { name: "About", id: "about" },
+    { name: "About", id: "/about" },
     { name: "Community", id: "community" },
-    { name: "Contact", id: "contact" },
+    { name: "Contact", id: "/contact" },
   ];
 
   return (
