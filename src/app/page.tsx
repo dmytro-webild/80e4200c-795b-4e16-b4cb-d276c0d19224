@@ -10,15 +10,16 @@ import TestimonialCardTen from "@/components/sections/testimonial/TestimonialCar
 import MetricCardFourteen from "@/components/sections/metrics/MetricCardFourteen";
 import ContactCTA from "@/components/sections/contact/ContactCTA";
 import FooterLogoReveal from "@/components/sections/footer/FooterLogoReveal";
-import { Sparkles, Award, Zap, Star, Users } from "lucide-react";
+import TeamCardEleven from "@/components/sections/team/TeamCardEleven";
+import { Sparkles, Award, Zap, Star, Users, Heart } from "lucide-react";
 
 export default function HomePage() {
   const navItems = [
     { name: "Home", id: "/" },
     { name: "Explore", id: "/explore" },
-    { name: "About", id: "about" },
+    { name: "About", id: "/about" },
     { name: "Community", id: "community" },
-    { name: "Contact", id: "contact" },
+    { name: "Contact", id: "/contact" },
   ];
 
   return (
@@ -150,6 +151,49 @@ export default function HomePage() {
             {
               id: "6",              title: "Supporting Student Success",              quote: "The platform makes it easy for me to guide students and see their progress. ExhibitHub has become essential to my advising workflow.",              name: "Prof. Emily Thompson",              role: "Academic Advisor",              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-middle-aged-businesswoman_1262-21005.jpg",              imageAlt: "Prof. Emily Thompson"},
           ]}
+          textboxLayout="default"
+          useInvertedBackground={false}
+        />
+      </div>
+
+      <div id="team" data-section="team">
+        <TeamCardEleven
+          title="Meet Our Founders"
+          description="The passionate team behind ExhibitHub's vision to empower student success"
+          tag="Our Team"
+          tagIcon={Heart}
+          tagAnimation="slide-up"
+          groups={[
+            {
+              id: "founders",              groupTitle: "Founders & Leadership",              members: [
+                {
+                  id: "1",                  title: "Sarah Chen",                  subtitle: "Co-Founder & CEO",                  detail: "sarah@exhibithub.edu",                  imageSrc: "http://img.b2bpic.net/free-photo/positive-middle-aged-business-leader-window_1262-5388.jpg?_wi=2",                  imageAlt: "Sarah Chen"},
+                {
+                  id: "2",                  title: "Marcus Thompson",                  subtitle: "Co-Founder & CTO",                  detail: "marcus@exhibithub.edu",                  imageSrc: "http://img.b2bpic.net/free-photo/front-view-lawyer-portrait_23-2151202434.jpg?_wi=2",                  imageAlt: "Marcus Thompson"},
+                {
+                  id: "3",                  title: "Jessica Rodriguez",                  subtitle: "Co-Founder & Head of Community",                  detail: "jessica@exhibithub.edu",                  imageSrc: "http://img.b2bpic.net/free-photo/portrait-senior-woman-professional-blazer-outdoors_23-2150296635.jpg?_wi=2",                  imageAlt: "Jessica Rodriguez"},
+              ],
+            },
+            {
+              id: "mission",              groupTitle: "Our Mission & Vision",              members: [
+                {
+                  id: "4",                  title: "Our Mission",                  subtitle: "Empower every student to showcase their talent",                  detail: "We believe every student deserves a platform to exhibit their work and connect with opportunities that match their potential and aspirations.",                  imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-planning-trip_23-2148925847.jpg?_wi=2",                  imageAlt: "Our Mission"},
+                {
+                  id: "5",                  title: "Our Vision",                  subtitle: "Bridge the gap between education and opportunity",                  detail: "ExhibitHub exists to create a world where talent is discovered based on merit, where employers find the best emerging professionals, and where every student's work speaks for itself.",                  imageSrc: "http://img.b2bpic.net/free-photo/low-angle-smiley-womens-home_23-2148451583.jpg?_wi=2",                  imageAlt: "Our Vision"},
+              ],
+            },
+            {
+              id: "values",              groupTitle: "Core Values",              members: [
+                {
+                  id: "6",                  title: "Excellence",                  subtitle: "We champion quality and continuous improvement",                  detail: "From student work to our platform, we celebrate excellence and inspire people to push their creative and professional boundaries.",                  imageSrc: "http://img.b2bpic.net/free-photo/side-view-hand-holding-paper-piece_23-2149930956.jpg?_wi=2",                  imageAlt: "Excellence"},
+                {
+                  id: "7",                  title: "Community",                  subtitle: "We foster meaningful connections",                  detail: "Every student, educator, and employer is part of our community. We build relationships based on shared goals and mutual respect.",                  imageSrc: "http://img.b2bpic.net/free-vector/reviews-concept-landing-page_52683-12806.jpg?_wi=2",                  imageAlt: "Community"},
+                {
+                  id: "8",                  title: "Opportunity",                  subtitle: "We unlock potential and career paths",                  detail: "ExhibitHub is the bridge between talent and opportunity. We're committed to opening doors and creating possibilities for our entire community.",                  imageSrc: "http://img.b2bpic.net/free-photo/man-woman-sitting-cafe-studying_273609-13270.jpg?_wi=2",                  imageAlt: "Opportunity"},
+              ],
+            },
+          ]}
+          animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
         />
